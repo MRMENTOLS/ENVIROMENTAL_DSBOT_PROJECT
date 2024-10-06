@@ -24,3 +24,6 @@ from urllib3.util.retry import Retry
 https://github.com/MRMENTOLS/BotDS_AI_update
 https://colab.research.google.com/drive/1HFND1oaaMeh-1sFk-K1Y3804ZDansFtT?usp=sharing
 
+## Связь
+ТГ: https://t.me/MaksimKhmelenko
+ДС: me.mentol
